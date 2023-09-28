@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\myPaint\myPaint\bin\Debug\myPaint.exe.config
+C:\Users\HP\source\repos\myPaint\myPaint\bin\Debug\myPaint.exe
+C:\Users\HP\source\repos\myPaint\myPaint\bin\Debug\myPaint.pdb
+C:\Users\HP\source\repos\myPaint\myPaint\obj\Debug\myPaint.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\myPaint\myPaint\obj\Debug\myPaint.Form1.resources
+C:\Users\HP\source\repos\myPaint\myPaint\obj\Debug\myPaint.Properties.Resources.resources
+C:\Users\HP\source\repos\myPaint\myPaint\obj\Debug\myPaint.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\myPaint\myPaint\obj\Debug\myPaint.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\myPaint\myPaint\obj\Debug\myPaint.exe
+C:\Users\HP\source\repos\myPaint\myPaint\obj\Debug\myPaint.pdb
